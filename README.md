@@ -1,1 +1,1 @@
-# linus-commend-
+# linus-command-
